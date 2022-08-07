@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Harry potter and the philospher stone",
+    "author": "J.K.rowling",
+    "genre": "infantil",
+    "year": "1995",
+    "cost": "$2000",
+    "price": "$6000",
+    "id": 1
+  },
+  {
+    "title": "Harry potter and the chamber of secrets",
+    "author": "J.K.rowling",
+    "genre": "infantil",
+    "year": "1998",
+    "cost": "$3000",
+    "price": "$7000",
+    "id": 2
+  },
+  {
+    "title": "Harry potter and the prisioner of Azkaban",
+    "author": "J.K.rowling",
+    "genre": "infantil",
+    "year": "1999",
+    "cost": "$3000",
+    "price": "$7000",
+    "id": 3
+  }
+]
